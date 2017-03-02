@@ -367,7 +367,7 @@ text_in_file = test_file.read()
 print(text_in_file)
 
 # Delete the file
-os.remove("hello.py")
+os.remove("test.txt")
 
 
 # CLASSES AND OBJECTS -------------
